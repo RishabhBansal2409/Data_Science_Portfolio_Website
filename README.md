@@ -3,6 +3,8 @@ Rishabh's Data Science Project Portfolio
 
 # [My Tableau CV](https://public.tableau.com/profile/rishabh.bansal2409#!/vizhome/Tableau_Vizume/MyResume)
 
+![](/images/My Resume.png)
+
 # [Data Science Projects](https://github.com/RishabhBansal2409/) 
 * Linear Regression Modelling to predict house prices. 
 * Addressed clients' business problems using sentiment analysis on the users’ reviews in R.
