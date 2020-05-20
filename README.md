@@ -1,6 +1,3 @@
-# My_Portfolio_Website
-Rishabh's Data Science Project Portfolio
-
 # [My Tableau CV](https://public.tableau.com/profile/rishabh.bansal2409#!/vizhome/Tableau_Vizume/MyResume)
 
 ![](/images/My Resume.png)
