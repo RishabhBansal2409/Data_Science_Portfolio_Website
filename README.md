@@ -12,9 +12,8 @@
 * Scraped Naukri website to identify the no of positions available and skillset required by companies using Python.
 * Created a story in Tableau showing how India fares amongst world countries on various socioeconomic parameters.
 
-**Exploratory Data Analysis(EDA) of my LinkedIn Connections**
+## [Exploratory Data Analysis(EDA) of my LinkedIn Connections](https://github.com/RishabhBansal2409/EDA-of-LinkedIn-Connections)
 
-I have performed EDA using the **Connections.csv** file obtained from the LinkedIn.
-Through it , I wanted to address various questions such as the no of **different companies my connections** are working in , **top 10 companies** on the basis of the **no of connections** , **top 10 roles** my connections are holding , growth in terms of **making connections year on year** and many more.The goal of the analysis was to **know my connections' companies as well as their roles well** which will further help me in deciding with whom I should connect more so as to be aligned with my goal.
+By performing EDA using the **Connections.csv** file obtained from the LinkedIn , I wanted to address various questions such as the no of **different companies my connections** are working in , **top 10 companies** on the basis of the **no of connections** , **top 10 positions** my connections are holding , growth in terms of **making connections year on year** and many more.The goal of the analysis was to **know my connections' companies as well as their roles well** which will further help me in deciding with whom I should connect more so as to be aligned with my goal.
 
 ![](/images/LinkedIn Connections Analysis.png)
