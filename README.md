@@ -12,6 +12,12 @@
 * Scraped Naukri website to identify the no of positions available and skillset required by companies using Python.
 * Created a story in Tableau showing how India fares amongst world countries on various socioeconomic parameters.
 
+## [Predicting Credit Card Approval](https://github.com/RishabhBansal2409/Predicting-Credit-Card-Approvals)
+
+![](/images/Credit_Card.png)
+
+Built a **supervised Machine Learning classifier** which predicts **whether a Credit Card application will get approved or not** after taking into account various features such as Age , Debt , Married , BankCustomer , EducationLevel , YearsEmployed , CreditScore belonging to an applicant.My model got **final accuracy of 85.36** on the unseen data.  
+
 ## [Exploratory Data Analysis(EDA) of my LinkedIn Connections](https://github.com/RishabhBansal2409/EDA-of-LinkedIn-Connections)
 
 By performing EDA using the **Connections.csv** file obtained from the LinkedIn , I wanted to address various questions such as the no of **different companies my connections** are working in , **top 10 companies** on the basis of the **no of connections** , **top 10 positions** my connections are holding , growth in terms of **making connections year on year** and many more.The goal of the analysis was to **know my connections' companies as well as their roles well** which will further help me in deciding with whom I should connect more so as to be aligned with my goal.
